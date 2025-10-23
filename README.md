@@ -17,5 +17,6 @@
 - Visualization: Chart.js plots anomalies for intuitive analysis
 
 🖥️ Screenshots
-<img width="2784" height="1390" alt="Anomaly2" src="https://github.com/user-attachments/assets/a9498a5b-56e4-4ee7-b019-fc7d2e63c498" />
+
 <img width="3020" height="1580" alt="Anamoly1" src="https://github.com/user-attachments/assets/2eedc59e-4567-44b2-a478-5ab3785edb7b" />
+<img width="2784" height="1390" alt="Anomaly2" src="https://github.com/user-attachments/assets/a9498a5b-56e4-4ee7-b019-fc7d2e63c498" />
